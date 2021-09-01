@@ -3,7 +3,8 @@
 1. Daftar artikel berisi title, excerpt serta thumbnail
 2. Detail artikel berisi title, thumbnail, content, date serta author
 3. Autentikasi untuk masuk dalam dashboard admin
-4. Dashboard untuk tambah, update dan hapus artikel
+4. Admin dapat menambah, memperbarui dan menghapus artikel 
+5. Artikel dapat berupa draft atau final publish
 
 # Screenshot
 
